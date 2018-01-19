@@ -1,25 +1,12 @@
-## Introduction
 
-Add project description here. What will learners be making?
+- Search for **images** of the thing you want a picture of.
 
-### What you will make
+- When you find a picture that you like, click to open it up full size.
 
-Add something here to showcase here, for example:
+- Then, **right click** the picture and select **Save Image As...** \(not **Save Link As...**\).
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
+![Menu with Save Image As selected](images/saveImgAs.png)
 
-Add instructions here. These should explain either how the finished project will work, or explain how to interact with the content above.
+- Type a short name in the box provided. 
 
-### What you will learn
-
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
-
-+ [Add curriculum strand/level description.](https://www.raspberrypi.org/curriculum/strand/level){:target="_blank"}
-
-### Additional information for educators
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/project-name/print){:target="_blank"}.
-
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+- Before you click **Save**, make a note of which folder it will be saved into; it might be the Downloads folder. You will need to remember this to find the picture later! You can select a different folder if you wish. Finally, click **Save**
