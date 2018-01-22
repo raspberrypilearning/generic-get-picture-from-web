@@ -1,8 +1,8 @@
-title: generic-get-picture-from-web
+title: Getting pictures from the internet
 hero_image: images/banner.png
 description: generic-get-picture-from-web description
 theme: red # possible values: blue, green, navy, orange, red, turquoise, violet, yellow
-duration: 2 # possible values: 1, 2 or 3
+duration: 1 # possible values: 1, 2 or 3
 listed: false
 ingredient: true
 copyedit: false
