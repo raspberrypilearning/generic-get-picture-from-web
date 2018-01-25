@@ -7,8 +7,8 @@ listed: false
 ingredient: true
 copyedit: false
 curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
-interests: "animals, big-project, art and design, jokes/pranks, space, photography, nature/outside/weather, music/sound, physical computing, games, robots, geography"
-technologies: "electronics, sense-hat, physical computing, html/css, scratch, python"
+interests: ""
+technologies: ""
 site_areas:
 steps:
   - title: Find and download a picture
