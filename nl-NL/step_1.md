@@ -1,12 +1,11 @@
+- Zoek naar plaatjes waarvan jij een foto wilt hebben.
 
-- Search for images of the thing you want a picture of.
+- Wanneer je een fot vindt die jou bevalt, klik erop om hem op volledige grootte te openen.
 
-- When you find a picture that you like, click on it to open it up full size.
+- Klik vervolgens met de rechtermuisknop op de foto en selecteer **Afbeelding opslaan als...**. Zorg ervoor dat je niet **Link opslaan als...** hebt geselecteerd.
 
-- Then right-click the picture, and select **Save Image As...**. Be sure you haven't selected **Save Link As...**.
+![Menu met Afbeelding opslaan als... geselecteerd](images/saveImgAs.png)
 
-![Menu with Save Image As selected](images/saveImgAs.png)
+- Typ een korte naam in het daarvoor bestemde vak.
 
-- Type a short name in the box provided. 
-
-- Before you click **Save**, make a note of which folder your image file will be saved to. You will need to remember this to find the picture later! You can select a specific folder if you wish. When you're sure you'll find the image again, click **Save**.
+- Voordat je op **Opslaan** klikt, noteer je in welke map jouw afbeeldingsbestand wordt opgeslagen. Je moet dit onthouden om de foto later te vinden! Je kunt desgewenst een andere map selecteren. Als je zeker weet dat je de afbeelding terug kunt vinden, klikt je op **Opslaan**.
