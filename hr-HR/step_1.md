@@ -1,11 +1,11 @@
-- Search for images of the thing you want a picture of.
+- Potražite stvari od kojih želite sliku.
 
-- When you find a picture that you like, click on it to open it up full size.
+- Kad pronađeš sliku koja ti se sviđa, klikni na nju da je otvoriš u punoj veličini.
 
-- Then right-click the picture, and select **Save Image As...**. Be sure you haven't selected **Save Link As...**.
+- Zatim desnom tipkom miša klikni na sliku i odaberi **Spremi sliku kao... (Save Image As...)**. Pazi da ne odabereš **Spremi vezu kao... (Save Link As...)**.
 
-![Menu with Save Image As selected](images/saveImgAs.png)
+![Izbornik sa Spremi sliku Kao odabrano](images/saveImgAs.png)
 
-- Type a short name in the box provided.
+- Unesi kratak naziv u okvir koji se pojavi.
 
-- Before you click **Save**, make a note of which folder your image file will be saved to. You will need to remember this to find the picture later! You can select a specific folder if you wish. When you're sure you'll find the image again, click **Save**.
+- Prije nego što klikneš na **Spremi (Save)**, zapamti u koju će mapu biti spremljena tvoja slikovna datoteka. To ćeš morati zapamtiti kako bi kasnije pronašao/la sliku! Možeš odabrati određenu mapu ako želiš. Klikni na **Spremi (Save)** kada sa sigurnošću znaš gdje pronaći sliku.
