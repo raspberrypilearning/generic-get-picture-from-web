@@ -1,11 +1,11 @@
-- Search for images of the thing you want a picture of.
+- 원하는 이미지를 검색하세요.
 
-- When you find a picture that you like, click on it to open it up full size.
+- 원하는 사진을 찾으면, 그것을 클릭하여 전체 크기로 여십시오.
 
-- Then right-click the picture, and select **Save Image As...**. Be sure you haven't selected **Save Link As...**.
+- 그런 다음 사진을 마우스 오른쪽 단추로 클릭하고 **다른 이름으로 이미지 저장...** 을 선택하십시오. **다른 이름으로 링크 저장...** 을 클릭하지 않았는지 꼭 확인하세요!
 
-![Menu with Save Image As selected](images/saveImgAs.png)
+![다른 이름으로 이미지 저장이 선택된 메뉴](images/saveImgAs.png)
 
-- Type a short name in the box provided.
+- 입력창에 짧은 이름을 입력하세요.
 
-- Before you click **Save**, make a note of which folder your image file will be saved to. You will need to remember this to find the picture later! You can select a specific folder if you wish. When you're sure you'll find the image again, click **Save**.
+- **저장**을 클릭하기 전에 이미지 파일이 저장 될 폴더를 기억하십시오. 나중에 사진을 찾으려면 위치를 기억해야 합니다! 원하는 경우 특정 폴더를 선택할 수 있습니다. 이미지를 다시 찾게되면 **저장**을 클릭하십시오.
