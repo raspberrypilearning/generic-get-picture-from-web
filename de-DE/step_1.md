@@ -1,11 +1,11 @@
-- Search for images of the thing you want a picture of.
+- Suche nach Bildern von dem, wovon du eine Darstellung brauchst.
 
-- When you find a picture that you like, click on it to open it up full size.
+- Wenn du ein passendes Bild findest, klicke darauf, um es in Originalgröße zu öffnen.
 
-- Then right-click the picture, and select **Save Image As...**. Be sure you haven't selected **Save Link As...**.
+- Klicke mit der rechten Maustaste auf das Bild und wähle **Bild speichern unter ...**. Achte darauf, dass du nicht **Verknüpfung speichern unter ...** auswählst.
 
-![Menu with Save Image As selected](images/saveImgAs.png)
+![Menü mit "Bild speichern als" ausgewählt](images/saveImgAs.png)
 
-- Type a short name in the box provided.
+- Trage einen Kurznamen in das dafür vorgesehene Feld ein.
 
-- Before you click **Save**, make a note of which folder your image file will be saved to. You will need to remember this to find the picture later! You can select a specific folder if you wish. When you're sure you'll find the image again, click **Save**.
+- Bevor Du auf **Speichern** klickst, notiere, in welchem Ordner deine Bilddatei gespeichert wird. Du müsst das Bild doch später finden können! Du kannst einen bestimmten Ordner auswählen, wenn du willst. Wenn du sicher bist, dass du das Bild wiederfindest, klicke auf **Speichern**.
