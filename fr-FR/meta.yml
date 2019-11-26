@@ -2,8 +2,8 @@
 title: Obtenir des images sur Internet
 hero_image: images/banner.png
 description: description générique de obtenir-à partir-du net
-theme: rouge
-duration: 1
+theme: rouge #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
+duration: 1 #possible values: 1, 2 or 3
 listed: false
 ingredient: true
 copyedit: true
