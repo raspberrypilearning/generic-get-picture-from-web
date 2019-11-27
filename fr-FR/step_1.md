@@ -4,7 +4,7 @@
 
 - Clique ensuite sur l’image avec le bouton droit de la souris et sélectionne **Enregistrer l'image sous ...**. Assures-toi de ne pas avoir sélectionné **Enregistrer le lien sous ...**.
 
-![Menu avec Enregistrer l'image sous sélectionné](images/save.png)
+![Menu avec Enregistrer l'image sous sélectionné](imagesImgAs/save.png)
 
 - Tape un nom court dans la case prévue.
 
