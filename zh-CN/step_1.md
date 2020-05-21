@@ -1,11 +1,11 @@
-- Search for images of the thing you want a picture of.
+- 搜索你想要查找的图片。
 
-- When you find a picture that you like, click on it to open it up full size.
+- 当您找到自己喜欢的图片时，请单击以将其放大为完整尺寸。
 
-- Then right-click the picture, and select **Save Image As...**. Be sure you haven't selected **Save Link As...**.
+- 然后右键单击图片，然后选择 **图像另存为...** 。 注意不要选 **链接另存为...**。
 
-![Menu with Save Image As selected](images/saveImgAs.png)
+![选中 图像另存为 的菜单](images/saveImgAs.png)
 
-- Type a short name in the box provided.
+- 在弹出框中输入一个简短的文件名
 
-- Before you click **Save**, make a note of which folder your image file will be saved to. You will need to remember this to find the picture later! You can select a specific folder if you wish. When you're sure you'll find the image again, click **Save**.
+- 在单击**保存**之前 ，记下图像文件被保存到了哪个文件夹里。 记住了这个你才能找到图片！ 您可以根据需要选择一个特定的文件夹。 当你确定可以再次找到该图像时，单击**保存** 。
