@@ -2,7 +2,7 @@
 
 - Cuando encuentres una imagen que te guste, haz clic en ella para abrirla a tamaño completo.
 
-- Luego haz clic derecho en la imagen y selecciona **Guardar imagen como...**. Asegúrate de no haber seleccionado **Guardar enlace como...** (o un texto similar, depende del navegador que utilices).
+- Luego haz clic con el botón derecho del ratón o trackpad en la imagen y selecciona **Guardar imagen como...**. Asegúrate de no haber seleccionado **Guardar enlace como...** (o un texto similar, depende del navegador que utilices).
 
 ![Menú con la opción Guardar imagen seleccionada](images/saveImgAs.png)
 
