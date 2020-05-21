@@ -1,11 +1,11 @@
-- Search for images of the thing you want a picture of.
+- Caută imagini cu ceea ce dorești.
 
-- When you find a picture that you like, click on it to open it up full size.
+- Când găsești o imagine care îți place, dă click pe ea pentru a o deschide la dimensiune maximă.
 
-- Then right-click the picture, and select **Save Image As...**. Be sure you haven't selected **Save Link As...**.
+- Apoi dă click dreapta pe imagine și selectează **Salvează imaginea ca...**. Asigură-te că nu ai selectat **Salvează linkul ca...**.
 
-![Menu with Save Image As selected](images/saveImgAs.png)
+![Meniu cu Salvează imaginea ca selectat](images/saveImgAs.png)
 
-- Type a short name in the box provided.
+- Introdu un nume scurt în caseta afișată.
 
-- Before you click **Save**, make a note of which folder your image file will be saved to. You will need to remember this to find the picture later! You can select a specific folder if you wish. When you're sure you'll find the image again, click **Save**.
+- Înainte de a face clic pe **Salvează**, notează în ce folder va fi salvată imaginea ta. Va trebui să îți amintești acest lucru pentru a găsi imaginea mai târziu! Poți selecta un folder specific, dacă dorești. Când ești sigur că vei găsi imaginea din nou, dă click pe **Salvează**.
