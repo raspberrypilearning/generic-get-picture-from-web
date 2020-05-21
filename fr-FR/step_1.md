@@ -1,4 +1,4 @@
-- Recherche des images de ce que tu souhaites avoir.
+- Recherche des images de ce dont tu as besoin.
 
 - Lorsque tu trouves une image que tu aimes, clique dessus pour l'ouvrir en taille réelle.
 
