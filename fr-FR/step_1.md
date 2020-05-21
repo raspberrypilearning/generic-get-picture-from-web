@@ -1,10 +1,10 @@
-- Recherche des images de ce que tu souhaites avoir.
+- Recherche des images de ce dont tu as besoin.
 
 - Lorsque tu trouves une image que tu aimes, clique dessus pour l'ouvrir en taille réelle.
 
 - Clique ensuite sur l’image avec le bouton droit de la souris et sélectionne **Enregistrer l'image sous ...**. Assures-toi de ne pas avoir sélectionné **Enregistrer le lien sous ...**.
 
-![Menu avec Enregistrer l'image sous sélectionné](images/saveImgAs.png)
+![Menu avec Enregistrer l'image sous sélectionné](images/save.png)
 
 - Tape un nom court dans la case prévue.
 
