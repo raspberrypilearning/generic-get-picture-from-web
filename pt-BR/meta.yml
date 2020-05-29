@@ -1,0 +1,15 @@
+---
+title: Obtendo imagens da internet
+hero_image: images/banner.png
+description: descrição generic-get-picture-from-web
+theme: red #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
+duration: 1 #possible values: 1, 2 or 3
+listed: false
+ingredient: true
+copyedit: true
+curriculum: criador, design-0, programação-0, phys-comp-0, manufacture-0, community-0
+interests: ""
+technologies: ""
+site_areas:
+steps:
+  - title: Encontre e baixe uma imagem
