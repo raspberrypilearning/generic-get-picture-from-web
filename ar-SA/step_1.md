@@ -4,7 +4,7 @@
 
 - Then right-click the picture, and select **Save Image As...**. Be sure you haven't selected **Save Link As...**.
 
-![Menu with Save Image As selected](الصور / حفظ الصور ك png)
+![القائمة مع الصور المحفوظة كما تم تحديدها](الصور / حفظ الصور ك png)
 
 - Type a short name in the box provided.
 
