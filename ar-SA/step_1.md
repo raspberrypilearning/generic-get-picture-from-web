@@ -1,11 +1,11 @@
-- Search for images of the thing you want a picture of.
+- أبحث عن صورة للشيء الذي تريد صورة له.
 
-- When you find a picture that you like, click on it to open it up full size.
+- عندما تجد صورة تعجبك، انقر عليها لفتحها بالحجم الكامل.
 
-- Then right-click the picture, and select **Save Image As...**. Be sure you haven't selected **Save Link As...**.
+- ثم انقر بزر الماوس الأيمن فوق الصورة وحدد **حفظ الصورة باسم ...**. تأكد من أنك لم تقم بتحديد **حفظ الرابط بأسم ...**.
 
 ![القائمة مع الصور المحفوظة كما تم تحديدها](الصور / حفظ الصور ك png)
 
-- Type a short name in the box provided.
+- اكتب اسمًا قصيرًا في المربع المتاح.
 
-- قبل النقر فوق **حفظ**، اكتب ملاحظة في المجلد الذي سيتم حفظ ملف الصورة فيه. You will need to remember this to find the picture later! You can select a specific folder if you wish. When you're sure you'll find the image again, click **Save**.
+- قبل النقر فوق **حفظ**، اكتب ملاحظة في المجلد الذي سيتم حفظ ملف الصورة فيه. سوف تحتاج إلى تذكر هذا للعثور على الصورة في وقت لاحق! يمكنك تحديد مجلد معين إذا كنت ترغب في ذلك. عندما تكون متأكد أنك ستجد الصورة مرة أخرى، انقر فوق **حفظ**.
