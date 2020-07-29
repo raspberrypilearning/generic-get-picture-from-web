@@ -1,16 +1,16 @@
 ---
-title: Getting pictures from the internet
+title: इंटरनेट वरून चित्र मिळवत आहे
 hero_image: images/banner.png
-description: generic-get-picture-from-web description
-theme: red #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
-duration: 1 #possible values: 1, 2 or 3
+description: सामान्य-चित्र-मिळवा-वेब वर्णन-पासून
+theme: लाल #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
+duration: 0 #possible values: 1, 2 or 3
 listed: false
 ingredient: true
 copyedit: true
-curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
+curriculum: निर्माता, डिझाइन -0, प्रोग्रामिंग -0, फिजिक-कॉम्प-0, उत्पादन -0, समुदाय -0
 interests: ""
 technologies: ""
 site_areas:
 steps:
   - 
-    title: Find and download a picture
+    title: एक चित्र शोधा आणि डाउनलोड करा
