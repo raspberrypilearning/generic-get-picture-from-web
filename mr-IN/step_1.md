@@ -1,11 +1,11 @@
-- Search for images of the thing you want a picture of.
+- आपल्याला ज्या वस्तूचा चित्र हवा आहे ती शोधा.
 
-- When you find a picture that you like, click on it to open it up full size.
+- जेव्हा आपल्याला आपले आवडते चित्र सापडले, तव्हा त्याला मोठ्या आकारमध्ये उघडण्यासाठी त्यावर क्लिक करा.
 
-- Then right-click the picture, and select **Save Image As...**. Be sure you haven't selected **Save Link As...**.
+- त्यानंतर चित्रावर उजवीकडे क्लिक करा, आणि **Save Image As...** निवडा. आपण **Save Link As...** निवडले नाही याची खात्री करा.
 
 ![Menu with Save Image As selected](images/saveImgAs.png)
 
-- Type a short name in the box provided.
+- दिलेल्या बाॅक्समध्ये एक छोटा नाव टाइप करा.
 
-- Before you click **Save**, make a note of which folder your image file will be saved to. You will need to remember this to find the picture later! You can select a specific folder if you wish. When you're sure you'll find the image again, click **Save**.
+- आपण **Save** वर क्लिक करण्यापूर्वी, आपली इमेज फाइल कोणत्या फोल्डरमध्ये जतन होईल याची नोंद घ्या. नंतर हे चित्र शोधण्यासाठी आपल्याला हे लक्षात ठेवण्याची आवश्यकता असेल! आपल्याला वाटल्यास आपण एक विशिष्ट फोल्डर निवडू शकता. आपल्याला ही प्रतिमा पुन्हा सापडेल याची खात्री झाल्यावर, **Save** वर क्लिक करा.
