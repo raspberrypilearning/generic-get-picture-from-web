@@ -1,0 +1,15 @@
+---
+title: इंटरनेट वरून चित्र मिळवत आहे
+hero_image: images/banner.png
+description: सामान्य-चित्र-मिळवा-वेब वर्णन-पासून
+theme: red #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
+duration: 0 #possible values: 1, 2 or 3
+listed: false
+ingredient: true
+copyedit: true
+curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
+interests: ""
+technologies: ""
+site_areas:
+steps:
+  - title: एक चित्र शोधा आणि डाउनलोड करा
