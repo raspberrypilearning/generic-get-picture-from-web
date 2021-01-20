@@ -1,11 +1,11 @@
-- Search for images of the thing you want a picture of.
+- 欲しい写真の画像を検索します。
 
-- When you find a picture that you like, click on it to open it up full size.
+- 気に入った画像が見つかったら、クリックして画像をフルサイズで開きます。
 
-- Then right-click the picture, and select **Save Image As...**. Be sure you haven't selected **Save Link As...**.
+- 次に、画像を右クリックして、 **名前を付けて画像を保存...**を選択します。 選択したのが**名前を付けてリンク先を保存...**ではないことを確認してください。
 
-![Menu with Save Image As selected](images/saveImgAs.png)
+![「名前を付けて画像を保存」が選択されたメニュー](images/saveImgAs.png)
 
-- Type a short name in the box provided.
+- 表示されたボックスに短い名前を入力します。
 
-- Before you click **Save**, make a note of which folder your image file will be saved to. You will need to remember this to find the picture later! You can select a specific folder if you wish. When you're sure you'll find the image again, click **Save**.
+- **保存**をクリックする前に、どのフォルダーに画像ファイルが保存されるのかメモします。 後で写真を見つけるために、これを覚えておく必要があります！ 必要に応じて、特定のフォルダーを選択することもできます。 画像を再び見つけられる確信が持てたら、 **保存**をクリックします。
