@@ -1,7 +1,7 @@
 ---
 title: इंटरनेट से चित्र प्राप्त करना
 hero_image: images/banner.png
-description: जेनेरिक-प्राप्त-चित्र-से-वेब विवरण
+description: सामान्य-प्राप्त-तस्वीर-से-वेब विवरण
 theme: लाल #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
 duration: 1 #possible values: 1, 2 or 3
 listed: false
