@@ -1,6 +1,6 @@
 - Zoek naar plaatjes waarvan jij een foto wilt hebben.
 
-- Wanneer je een fot vindt die jou bevalt, klik erop om hem op volledige grootte te openen.
+- Wanneer je een foto vindt die jou bevalt, klik erop om hem op volledige grootte te openen.
 
 - Klik vervolgens met de rechtermuisknop op de foto en selecteer **Afbeelding opslaan als...**. Zorg ervoor dat je niet **Link opslaan als...** hebt geselecteerd.
 
