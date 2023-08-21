@@ -1,5 +1,5 @@
 ---
-title: Pobieranie zdjęć z Internetu
+title: Pobieranie obrazów z Internetu
 hero_image: images/banner.png
 description: generic-get-picture-from-web description
 theme: red #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
@@ -13,4 +13,4 @@ technologies: ""
 site_areas:
 steps:
   - 
-    title: Znajdź i pobierz zdjęcie
+    title: Znajdź i pobierz obraz
