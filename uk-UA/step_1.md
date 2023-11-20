@@ -1,11 +1,11 @@
-- Search for images of the thing you want a picture of.
+- Шукай картинку речі, яку треба показати.
 
-- When you find a picture that you like, click on it to open it up full size.
+- Знайшовши підходящу картинку, клацни по ній, щоб відкрити в повний розмір.
 
-- Then right-click the picture, and select **Save Image As...**. Be sure you haven't selected **Save Link As...**.
+- Далі клацни правою кнопкою миші на зображенні та вибери **Зберегти зображення як...**. Переконайся, що ти не вибрав(-ла) **Зберегти посилання як...**.
 
-![Menu with Save Image As selected](images/saveImgAs.png)
+![Меню із вибраним пунктом "Зберегти зображення як..."](images/saveImgAs.png)
 
-- Type a short name in the box provided.
+- Введи коротке ім'я у надане поле.
 
-- Before you click **Save**, make a note of which folder your image file will be saved to. You will need to remember this to find the picture later! You can select a specific folder if you wish. When you're sure you'll find the image again, click **Save**.
+- Перш ніж натиснути **Зберегти**, зверни увагу, в яку папку буде збережено файл зображення. Тобі потрібно її запам'ятати, щоб пізніше знайти свою картинку! Ти можеш вибрати якусь конкретну папку, якщо бажаєш. Коли ти впевнений, що зможеш знову знайти зображення, натисни **Зберегти**.
